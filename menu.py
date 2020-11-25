@@ -95,9 +95,6 @@ def menu():
        print "Nama Ke Tiga :", rannama3
        print "Random :", rannama4
        print(garis)
-    else:
-       print "Ada Yang Salah!"
-       menu()
   if(perintah==3):
     print""
     print(garis)
